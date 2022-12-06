@@ -19,3 +19,6 @@ If you are interested in making a talk at one of the following meetings, please 
 
 ### Code of Conduct
 We aim to provide a welcoming environment for attendees of any background and experience, and we expect all participants to follow the [KUG-recommended Code of Conduct](https://github.com/jetbrains#code-of-conduct).
+
+### Support Cyprus KUG
+If you or your company wants to support Cyprus KUG in any fashion (provide a space, sponsor drinks, snacks, swag), please [fill in an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=&template=support-proposal.md&title=). Patrons and sponsors will be featured on this page. 
