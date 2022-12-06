@@ -1,5 +1,5 @@
 ---
-name: Support proposal
+name: Support Proposal
 about: If you or your company wants to support Cyprus KUG in any fashion (provide
   a space, sponsor drinks, snacks, swag, etc), please fill in an this template
 title: ''
