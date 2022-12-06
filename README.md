@@ -15,6 +15,6 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 ## 
 
 ### CFP
-If you are interested in making a talk at one of the following meetings, please [create an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=talk+proposal&template=talk-proposal.md&title=). In the message, make a short intro about yourself and your experience using Kotlin, the topic of the talk, and a brief abstract with the fundamental theses.
+If you are interested in making a talk at one of the following meetings, please [create an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=talk+proposal&template=talk-proposal.md&title=).
 
 ### [Code of Conduct](https://github.com/jetbrains#code-of-conduct)
