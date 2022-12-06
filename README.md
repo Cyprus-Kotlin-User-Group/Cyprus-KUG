@@ -7,8 +7,7 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 
 ### Cyprus KUG 01
 - Date: 2022.12.20
-- City: Limassol
-- Venue: [Crown Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA)
+- Place: [Crown Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA), Limassol
 - Time: 18:00 - 20:00
 - [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-2012-tickets-478030140017)
 
