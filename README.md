@@ -3,13 +3,21 @@ KUG Cyprus is for everyone who is interested in Kotlin. Doesn't matter whether y
 
 Here we will post meetup anouncements and content. We are in the stage of planing our first meeting, meanwhile you can connect with fellow Kotlin users in our [telegram chat](https://t.me/kug_cy). 
 
+If you want to get notifications about future events, follow our [Eventbrite account](https://www.eventbrite.com/o/cyprus-kotlin-user-group-57697070993). 
+
 ## Next meeting
+
+TBA in 2023
+
+## Past events
 
 ### Cyprus KUG 01
 - Date: 2022.12.20
 - Place: [Crown Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA), Limassol
 - Time: 18:00 - 20:00
-- [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-2012-tickets-478030140017)
+- Talk: "Functional programming in Kotlin with Arrow", Artemiy Mikhaylov (Android developer, inDrive)
+In this talk, I will show some popular functional programming usage examples in Java and Kotlin and how the Arrow library can help you to use functional programming more efficiently.
+- [Presentation Slides](https://www.dropbox.com/s/ytapmy1pc587wp1/Copy%20of%20KUG%20Arrow.pdf?dl=0)
 
 ## 
 
