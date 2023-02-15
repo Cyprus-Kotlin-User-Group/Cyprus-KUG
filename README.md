@@ -3,13 +3,15 @@ KUG Cyprus is for everyone who is interested in Kotlin. Doesn't matter whether y
 
 Here we will post meetup anouncements and content. We are in the stage of planing our first meeting, meanwhile you can connect with fellow Kotlin users in our [telegram chat](https://t.me/kug_cy). 
 
-If you want to get notifications about future events, follow our [Eventbrite account](https://www.eventbrite.com/o/cyprus-kotlin-user-group-57697070993). 
-
 ## Next meeting
 
-TBA in 2023
+### Cyprus KUG 02
+- Date: 2023.03.02
+- Place: [Exness office](https://goo.gl/maps/KYjMLpkQrCvM7ePB7), Limassol
+- Time: 19:00 - 21:00
+- [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-0203-tickets-547755831437)
 
-## Past events
+## Past meeting
 
 ### Cyprus KUG 01
 - Date: 2022.12.20
@@ -28,4 +30,6 @@ If you are interested in making a talk at one of the following meetings, please 
 We aim to provide a welcoming environment for attendees of any background and experience, and we expect all participants to follow the [KUG-recommended Code of Conduct](https://github.com/jetbrains#code-of-conduct).
 
 ### Support Cyprus KUG
-If you or your company wants to support Cyprus KUG in any fashion (provide a space, sponsor drinks, snacks, swag), please [fill in an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=&template=support-proposal.md&title=). Patrons and sponsors will be featured on this page. 
+If you or your company wants to support Cyprus KUG in any fashion (provide a space, sponsor drinks, snacks or swag), please [fill in an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=&template=support-proposal.md&title=). Patrons and sponsors will be featured on this page. 
+
+Cyprus KUG is supported by: JetBrains, inDrive, Exness
