@@ -11,7 +11,7 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 - Time: 19:00 - 21:00
 - [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-0203-tickets-547755831437)
 
-## Past meeting
+## Past meetings
 
 ### Cyprus KUG 01
 - Date: 2022.12.20
@@ -32,4 +32,4 @@ We aim to provide a welcoming environment for attendees of any background and ex
 ### Support Cyprus KUG
 If you or your company wants to support Cyprus KUG in any fashion (provide a space, sponsor drinks, snacks or swag), please [fill in an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=&template=support-proposal.md&title=). Patrons and sponsors will be featured on this page. 
 
-Cyprus KUG is supported by: JetBrains, inDrive, Exness
+Cyprus KUG is supported by: JetBrains, inDrive, Exness.
