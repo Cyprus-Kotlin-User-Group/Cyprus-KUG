@@ -5,13 +5,20 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 
 ## Next meeting
 
+### KotlinConf 2023 Global Paphos
+- Date: 2023.04.15
+- Place: [Evagoras Pallikarides Foundation](https://goo.gl/maps/vnBoKotpYB3Z79pe7), Paphos
+- Time: 12:00 - 17:00
+- [Agenda & Registration](https://www.eventbrite.com/e/kotlinconf-2023-global-paphos-tickets-525526091687)
+
+## Past meetings
+
 ### Cyprus KUG 02
 - Date: 2023.03.02
 - Place: [Exness office](https://goo.gl/maps/KYjMLpkQrCvM7ePB7), Limassol
 - Time: 19:00 - 21:00
-- [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-0203-tickets-547755831437)
-
-## Past meetings
+- Talk 1: "10 myths about cross platform mobile development with Kotlin" by Katerina Petrova (JetBrains) [Usefull Links](https://t.me/kug_cy/159)
+- Talk 2: "kts + Android UI test: How to cook in CI" by Aleksei Tiurin (Exness) [Presentation Slides](https://drive.google.com/file/d/1g0OYH-X2MvcP3sGKkWriTE0tGGCdzXGY/view?usp=sharing)
 
 ### Cyprus KUG 01
 - Date: 2022.12.20
