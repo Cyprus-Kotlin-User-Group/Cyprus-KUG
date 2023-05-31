@@ -5,13 +5,19 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 
 ## Next meeting
 
+### Cyprus KUG 03
+- Date: 2023.06.13
+- Place: Crown Plaza, Limassol
+- Time: 18:30 - 21:00
+- [Registration and info](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-1306-tickets-636457520577)
+- Talk: "Compose Multiplatform on iOS" by Nikita Lipsky (Software Developer for Kotlin at JetBrains)
+
+## Past meetings
+
 ### KotlinConf 2023 Global Paphos
 - Date: 2023.04.15
 - Place: [Evagoras Pallikarides Foundation](https://goo.gl/maps/vnBoKotpYB3Z79pe7), Paphos
 - Time: 12:00 - 17:00
-- [Agenda & Registration](https://www.eventbrite.com/e/kotlinconf-2023-global-paphos-tickets-525526091687)
-
-## Past meetings
 
 ### Cyprus KUG 02
 - Date: 2023.03.02
