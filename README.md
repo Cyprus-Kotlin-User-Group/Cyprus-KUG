@@ -4,6 +4,14 @@ KUG Cyprus is for everyone who is interested in Kotlin. Doesn't matter whether y
 Here we will post meetup anouncements and content. We are in the stage of planing our first meeting, meanwhile you can connect with fellow Kotlin users in our [telegram chat](https://t.me/kug_cy). 
 
 ## Next meeting
+### State of KMP
+- Date: 2023.11.23
+- Place: Exness, Limassol
+- Time: 18:30 - 22:00
+- [Registration and info](https://www.eventbrite.com/e/state-of-kotlin-multiplatform-tickets-743548241807)
+- Talk: "State of KMP" by Katerina Petrova (JetBrains)
+
+## Past meetings
 
 ### Cyprus KUG 03
 - Date: 2023.06.13
@@ -11,8 +19,6 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 - Time: 18:30 - 21:00
 - [Registration and info](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-1306-tickets-636457520577)
 - Talk: "Compose Multiplatform on iOS" by Nikita Lipsky (Software Developer for Kotlin at JetBrains)
-
-## Past meetings
 
 ### KotlinConf 2023 Global Paphos
 - Date: 2023.04.15
