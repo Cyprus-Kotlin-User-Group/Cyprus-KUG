@@ -4,14 +4,21 @@ KUG Cyprus is for everyone who is interested in Kotlin. Doesn't matter whether y
 Here we will post meetup anouncements and content. We are in the stage of planing our first meeting, meanwhile you can connect with fellow Kotlin users in our [telegram chat](https://t.me/kug_cy). 
 
 ## Next meeting
+### Cyprus KUG 04
+- Date: 2023.11.23
+- Place: JetBrains, Limassol
+- Time: 18:30 - 21:00
+- [Registration and info](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-2202-tickets-811213329907)
+- Talks: "Optimizing Android Project Build Time" by Andrey Fomenkov (inDrive) & "Load Testing with Gatling and VictoriaMetrics" by Aleksei Beloglazov (Plata)
+
+## Past meetings
+
 ### State of KMP
 - Date: 2023.11.23
 - Place: Exness, Limassol
 - Time: 18:30 - 22:00
 - [Registration and info](https://www.eventbrite.com/e/state-of-kotlin-multiplatform-tickets-743548241807)
 - Talk: "State of KMP" by Katerina Petrova (JetBrains)
-
-## Past meetings
 
 ### Cyprus KUG 03
 - Date: 2023.06.13
